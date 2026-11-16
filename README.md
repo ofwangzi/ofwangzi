@@ -1,16 +1,35 @@
-## Hi there 👋
+# Hi，我是成田六花 👋
 
-<!--
-**ofwangzi/ofwangzi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+> 一位老师，也是一名业余独立游戏开发者。
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 👋 关于我
+
+- 👩‍🏫 白天是一名老师
+- 🎮 业余时间在做独立游戏
+- 🌱 喜欢把想法一点点做成能玩的东西
+
+---
+
+## 🎮 正在创作：《404星球》
+
+一颗藏在网站深处的小星球。
+
+它被灰墨与焦虑笼罩，失去了颜色。
+
+玩家将逐区点亮这颗星球，让色彩一点一点回来。
+
+---
+
+## 🛠️ 技能与兴趣
+
+- 🎨 游戏创意与叙事
+- 🧩 独立游戏开发
+- 📚 教学与分享
+
+---
+
+## 📫 联系我
+
+- GitHub：[@ofwangzi](https://github.com/ofwangzi)
